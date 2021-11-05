@@ -1,5 +1,5 @@
 # Timed Timed Channel Point Redeemer
-## Browser script to periodically redeem twitch channel point rewards
+### Browser script to periodically redeem twitch channel point rewards
 ```js
 var rewardName = "Name of Reward"; // Duh?
 var delay = 500; // In ms
